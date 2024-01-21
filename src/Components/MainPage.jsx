@@ -4,7 +4,7 @@ import Button from "./Button";
 
 const MainPage = () => {
   return (
-    <div className=" -ml-20 flex items-center flex-col pt-36 ">
+    <div className=" -ml-28 flex items-center flex-col pt-36 ">
       <Logo />
       <h2 className="my-5 text-amber-900 font-bold text-2xl">
         No Project Selected{" "}
